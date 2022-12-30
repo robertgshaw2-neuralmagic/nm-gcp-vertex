@@ -8,11 +8,6 @@ Create Project
 gcloud projects create deepsparse-vertex --name="DeepSparse Vertex Example"
 ```
 
-Switch to this Project in the gcloud SDK.
-```
-xxx
-```
-
 ## Push Docker Container with DeepSparse to Artifact Repository
 
 Authenticate to gcloud
