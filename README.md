@@ -25,7 +25,6 @@ export PROJECT_ID=gcp-vertex-deepsparse-example
 ```
 
 Once the project is created, switch to the project on your machine with the `gcloud` CLI command:
-
 ```
 gcloud config set project $PROJECT_ID
 ```
